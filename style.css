@@ -1,0 +1,79 @@
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+h5{
+  color:white;
+}
+h4{
+  color:white;
+  font-size: 55px;
+}
+
+p{
+  font-size: 18px;
+  color: white;
+}
+
+body{
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background-image: url(landscape.jpg);
+}
+
+.header{
+  background-color: rgba(0, 0, 0, 0.212);
+  height: 80px;
+  margin: 10px;
+}
+nav ul li{
+  font-size: 35px;
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+}
+
+ul li a{
+  color: antiquewhite;
+  letter-spacing: 0.2rem;
+}
+ul li a:hover{
+  color: brown;
+  text-decoration:underline ;
+}
+.menu li{
+  float: left;
+  padding: 35px;
+}
+.menu li a{
+  text-decoration: none;
+}
+
+
+#carte{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  align-content: center;
+}
+
+.button {
+  background-color: orangered;
+  border: none;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  margin: 4px 2px;
+  border-radius: 2rem;
+}
+
+img{
+width: 25%; 
+}
